@@ -1,0 +1,15 @@
+git add .
+git commit -m "Inserindo imagens e vídeos"
+git push -u origin main
+echo "# web-adriel" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dield832-create/web-adriel.git
+git push -u origin main
+
+
+git add .
+git commit -m "Inserindo imagens e vídeos"
+git push -u origin main
